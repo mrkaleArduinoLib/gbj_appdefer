@@ -1,0 +1,18 @@
+{
+  "name": "gbj_appdefer",
+  "version": "1.0.0",
+  "description": "Library defers executing a procedure (handler).",
+  "keywords": "application",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrkaleArduinoLib/gbj_appdefer.git"
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "mrkaleArduinoLib/gbj_appcore": "*",
+    "mrkaleArduinoLib/gbj_serial_debug": "*",
+    "mrkaleArduinoLib/gbj_timer": "*"
+  }
+}
